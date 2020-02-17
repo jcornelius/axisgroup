@@ -1,0 +1,18 @@
+# Site settings
+title: Axis Group
+email: hello@axisgroup.io
+url: https://axisgroup.io
+description: "Bring your EU product startup to to the US market."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: Axis Group
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
